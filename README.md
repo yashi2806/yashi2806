@@ -1,5 +1,5 @@
 # About Me:
-👋 Heyy there, My name is Yashi.<br>🌱 I’m currently learning MERN Stack Development.<br> 👯 I’m looking to collaborate on  Web Dev Projects.<br> 👀 I’m looking for help with internships.
+👋 Hey there, My name is Yashi.<br>🌱 I’m currently learning MERN Stack Development.<br> 👯 I’m looking to collaborate on  Web Dev Projects.<br> 👀 I’m looking for help with internships.
 
 
 ## 🌐 Socials:
