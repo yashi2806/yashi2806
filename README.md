@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashi2806&label=Profile%20views&color=0e75b6&style=flat" alt="yashi2806" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development.**
 
 - 👯 I’m looking to collaborate on **Web Dev projects.**
 
 - 🤝 I’m looking for help with **internship opportunities.**
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
